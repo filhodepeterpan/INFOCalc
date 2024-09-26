@@ -5,4 +5,4 @@
 **Link:** [INFOCalc](https://info-calc.vercel.app/)
 &nbsp;
 
-O site conta com 4 operações lógicas envolvendo Javascript, com layout pré-definido.
+O site conta com 4 exercícios lógicos envolvendo loops FOR em JavaScript.
