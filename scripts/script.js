@@ -5,7 +5,7 @@ function calculaQuadrado(){
     resultado.innerHTML="";
 
     for (let i = 1; i <= numero; i++){
-        if(i % 2 == O){
+        if(i % 2 == 0){
             resultado.innerHTML+= `${i*i}<br>`;
         }
     }
